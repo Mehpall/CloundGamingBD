@@ -1,0 +1,21 @@
+## Visual Studio / .NET
+.vs/
+**/bin/
+**/obj/
+**/packages/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.jfm
+*.log
+*.nupkg
+
+## Build outputs
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+## OS files
+.DS_Store
+Thumbs.db
